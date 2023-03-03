@@ -8,3 +8,7 @@ As soon as he ate the apple, he felt a strange energy coursing through his body.
 Over the next few days, Jack experimented with his newfound powers. He could lift heavy boulders, run faster than a cheetah, and even jump over tall trees. He soon became famous in the village for his incredible abilities, and people started coming from all over to witness his feats of strength.
 
 As time passed, Jack learned to control his powers and became a superhero of sorts in his village. He used his strength to help people in need and protect them from harm. He became a symbol of hope and courage for his fellow villagers, and they looked up to him with great respect.
+
+![MyImage][Logoref]
+
+[LogoRef]:https://www.google.be/search?q=Story&hl=nl&tbm=isch&source=hp&biw=1536&bih=754&ei=nc8BZMmZKNTBlAaSxrXgDA&iflsig=AK50M_UAAAAAZAHdrYtXc-mLUuO9qGfHBfsBrrkjkKjb&ved=0ahUKEwiJ3N2Ryr_9AhXUIMUKHRJjDcwQ4dUDCAc&uact=5&oq=Story&gs_lcp=CgNpbWcQAzIICAAQgAQQsQMyCwgAEIAEELEDEIMBMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6CAgAELEDEIMBUJwFWMEXYOkXaAJwAHgAgAEtiAH0AZIBATeYAQCgAQGqAQtnd3Mtd2l6LWltZ7ABAA&sclient=img#imgrc=nkRQLizXYMyDcM
