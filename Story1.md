@@ -11,4 +11,4 @@ As time passed, Jack learned to control his powers and became a superhero of sor
 
 ![MyImage][Logoref]
 
-[LogoRef]:https://www.google.be/search?q=Story&hl=nl&tbm=isch&source=hp&biw=1536&bih=754&ei=nc8BZMmZKNTBlAaSxrXgDA&iflsig=AK50M_UAAAAAZAHdrYtXc-mLUuO9qGfHBfsBrrkjkKjb&ved=0ahUKEwiJ3N2Ryr_9AhXUIMUKHRJjDcwQ4dUDCAc&uact=5&oq=Story&gs_lcp=CgNpbWcQAzIICAAQgAQQsQMyCwgAEIAEELEDEIMBMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6CAgAELEDEIMBUJwFWMEXYOkXaAJwAHgAgAEtiAH0AZIBATeYAQCgAQGqAQtnd3Mtd2l6LWltZ7ABAA&sclient=img#imgrc=nkRQLizXYMyDcM
+[LogoRef]:https://contenthub-static.grammarly.com/blog/wp-content/uploads/2020/10/Write-a-Story-760x406.jpg
