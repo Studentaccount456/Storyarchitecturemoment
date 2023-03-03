@@ -11,4 +11,4 @@ As time passed, Jack learned to control his powers and became a superhero of sor
 
 ![MyImage][Logoref]
 
-[LogoRef]:https://contenthub-static.grammarly.com/blog/wp-content/uploads/2020/10/Write-a-Story-760x406.jpg
+[LogoRef]:https://cpet.tc.columbia.edu/uploads/1/8/4/5/18456699/write-to-learn_orig.png
