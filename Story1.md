@@ -1,4 +1,4 @@
-#Epic story
+# Epic story
 ## Chapter 1
 ---
 Once upon a time, there was a man named Jack who lived in a small village at the edge of a dense forest. Jack was an ordinary man who worked as a woodcutter and led a simple life. One day, while he was working in the forest, he stumbled upon a strange tree with shiny red apples hanging from its branches. Curiosity got the better of him, and he plucked one of the apples from the tree and took a bite.
